@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2016-03-16T02:26:31Z" finished-at="2016-03-16T02:26:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2016-03-16T02:26:31Z" finished-at="2016-03-16T02:26:31Z">
+      <class name="com.testng.add.testCalcAdd">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testng.add.testCalcAdd@2d6a9952]" name="f" duration-ms="12" started-at="2016-03-16T10:26:31Z" finished-at="2016-03-16T10:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.testng.add.testCalcAdd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
