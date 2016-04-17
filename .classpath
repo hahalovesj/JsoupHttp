@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="/Users/shine/github_shenjing8412/JsoupHttp/libs/jsoup-1.8.3-javadoc.jar"/>
 	<classpathentry kind="lib" path="/Users/shine/github_shenjing8412/JsoupHttp/libs/jsoup-1.8.3-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/shine/github_shenjing8412/JsoupHttp/libs/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/testng-6.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
